@@ -1,0 +1,6 @@
+epochs/
+.DS_Store
+*.bak
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
