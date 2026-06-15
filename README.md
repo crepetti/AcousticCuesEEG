@@ -15,7 +15,7 @@ decoding, and cue-weight comparisons reported in the manuscript.
 ```
 AcousticCuesEEG_github.ipynb   # all analyses (run top to bottom)
 behavior/                      # per-participant behavioral CSVs (*_ob.csv)
-epochs/                        # preprocessed, epoched EEG (*-epo.fif) — download from OSF (see Data availability)
+epochs/                        # preprocessed, epoched EEG (*-epo.fif) — download from OSF 
 logs/                          # preprocessing logs (used for bad-channel counts)
 decoding/                      # decoding outputs (per-participant *.p caches + .png)
 figures/                       # manuscript figures written here
