@@ -60,4 +60,7 @@ The EEG epoch files are too large for GitHub and are openly available on OSF.
 Download the epoch files from the OSF record above and place them in an
 `epochs/` folder at the repository root to reproduce the analyses.
 
+## Project DOI
+10.17605/OSF.IO/JF3B6
+
 
