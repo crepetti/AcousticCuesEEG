@@ -1,6 +1,13 @@
+# Large EEG data — hosted on OSF, not GitHub (see README: Data availability)
 epochs/
+
+# OS / editor cruft
 .DS_Store
+
+# Notebook backups
 *.bak
+
+# Python
 __pycache__/
 *.pyc
 .ipynb_checkpoints/

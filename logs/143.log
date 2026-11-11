@@ -1,2 +1,1 @@
 Bad channels = [np.str_('FC5'), np.str_('FC6')]  # 2025-09-24T14:51:14.421815
-Excluded ICA components: []  # 2025-09-24T14:51:35.302830

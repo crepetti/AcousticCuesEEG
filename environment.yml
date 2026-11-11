@@ -1,0 +1,21 @@
+name: acousticcueseeg
+channels:
+  - conda-forge
+dependencies:
+  - python=3.14.2
+  - r-base=4.5.2
+  - r-lme4=2.0.1
+  - numpy=2.3.5
+  - pandas=2.3.3
+  - scipy=1.16.3
+  - matplotlib=3.10.8
+  - mne=1.11.0
+  - scikit-learn=1.7.2
+  - statsmodels=0.14.6
+  - pingouin=0.6.1
+  - rpy2=3.6.4
+  - tqdm=4.67.1
+  - ipykernel=7.1.0
+  - pip
+  - pip:
+      - pymer4==0.8.2

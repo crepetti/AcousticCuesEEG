@@ -1,2 +1,1 @@
 Bad channels = ['F3', 'Fz', 'P7', 'FC6', 'F8']  # 2025-06-02T11:22:18.537248
-Excluded ICA components: [np.int64(1)]  # 2025-06-02T11:22:57.112157
