@@ -1,1 +1,1 @@
-Bad channels = [np.str_('FC6'), np.str_('T7')]
+Bad channels = ['CP1']

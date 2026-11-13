@@ -1,1 +1,1 @@
-Bad channels = []
+Bad channels = ['FC6', 'T7', 'T8']
